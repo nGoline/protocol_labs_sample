@@ -2,6 +2,6 @@
 
 Main applications for this project.
 
-## `/blockstreamworker`
+## `/exchangeworker`
 
-Main worker that gatters block info from Blockstream's API.
+Worker that gatters price information from exchanges.
